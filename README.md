@@ -1,0 +1,2 @@
+
+Castle of Destiny ist ein textbasiertes Abenteuerspiel, das den Spieler in ein verlassenes, geheimnisvolles Schloss voller Rätsel und Herausforderungen führt. Ziel ist es, den Thronsaal zu erreichen und das dunkle Geheimnis des Schlosses zu lüften. Jeder Raum, von der Bibliothek über den Kerker bis zur Waffenkammer, bietet eigene Hinweise, Charaktere und Gegenstände, die den Spieler tiefer in die Geschichte eintauchen lassen. Nur wer alle Hinweise entschlüsselt und die Gefahren überwindet, wird das Abenteuer erfolgreich abschließen
